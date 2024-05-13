@@ -1,5 +1,5 @@
 a=13
-b=6
+b=60
 c=8
 d=5
 print ( a+b+c+d  )  
